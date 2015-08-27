@@ -13,8 +13,4 @@ def std(vals):
 		var = var + (val-mu)**2
 	return (var/n)**0.5	
 
-
-
-
-
 #print mean([2,4])
